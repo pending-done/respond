@@ -15,7 +15,7 @@
 <br/>
 
 ## 📦폴더 구조
-
+```
 src
  ┣ app
  ┃ ┣ (auth)
@@ -139,7 +139,7 @@ src
  ┃ ┃ ┣ server.ts
  ┃ ┃ ┗ user.ts
  ┗ middleware.ts
-
+```
 <br/>
 
 
